@@ -1,5 +1,5 @@
 # JAVA 4AHET 2022-23
-* Git: 
+* Git: https://github.com/damboeck/Java-sj22-4a.git
 
 # Verwendete Techniken
 * git
